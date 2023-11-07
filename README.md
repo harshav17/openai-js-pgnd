@@ -1,0 +1,1 @@
+Playaround for OpenAI node.js SDK
